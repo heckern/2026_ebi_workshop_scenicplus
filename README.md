@@ -6,14 +6,14 @@ In this project, we will investigate gene regulatory drivers of healthy and tumo
 
 ---
 The tutorial contains two parts:
-1) SCENIC+ - eRegulon analysis: [scenicplus_analysis.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/scenicplus_analysis.ipynb)
-2) SCENIC+ - prediction of TF perturbation effects: [scenicplus_analysis.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/scenicplus_perturbation.ipynb)
+1) SCENIC+ - eRegulon analysis: [scenicplus_analysis.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/scenicplus_analysis.ipynb)
+2) SCENIC+ - prediction of TF perturbation effects: [scenicplus_analysis.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/scenicplus_perturbation.ipynb)
 
 Prior to the tutorial the data has been processed. The following notebooks show the different processing steps:
-* Scanpy - procession of the gene expression modality: [scanpy_rna_processing.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/scanpy_rna_processing.ipynb)
-* pycisTopic - processing of the ATAC modality: [pycistopic_atac_processing.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/pycistopic_atac_processing.ipynb) 
-* pycisTarget - TF binding site motif score database: [pycistarget_tfmotif_database.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/pycistarget_tfmotif_database.ipynb)
-* SCENIC+ - pipeline for inferring eRegulons: [scenicplus_pipeline.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/scenicplus_pipeline.ipynb)
+* Scanpy - procession of the gene expression modality: [scanpy_rna_processing.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/scanpy_rna_processing.ipynb)
+* pycisTopic - processing of the ATAC modality: [pycistopic_atac_processing.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/pycistopic_atac_processing.ipynb) 
+* pycisTarget - TF binding site motif score database: [pycistarget_tfmotif_database.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/pycistarget_tfmotif_database.ipynb)
+* SCENIC+ - pipeline for inferring eRegulons: [scenicplus_pipeline.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/scenicplus_pipeline.ipynb)
 ---
 ## Reference:
 
