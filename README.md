@@ -7,7 +7,7 @@ In this project, we will investigate gene regulatory drivers of healthy and tumo
 ---
 The tutorial contains two parts:
 1) SCENIC+ - eRegulon analysis: [scenicplus_analysis.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/scenicplus_analysis.ipynb)
-2) SCENIC+ - prediction of TF perturbation effects: [scenicplus_analysis.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/scenicplus_perturbation.ipynb)
+2) SCENIC+ - prediction of TF perturbation effects: [scenicplus_perturbation.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/scenicplus_perturbation.ipynb)
 
 Prior to the tutorial the data has been processed. The following notebooks show the different processing steps:
 * Scanpy - procession of the gene expression modality: [scanpy_rna_processing.ipynb](https://github.com/heckern/2026_ebi_workshop_scenicplus/blob/main/scanpy_rna_processing.ipynb)
